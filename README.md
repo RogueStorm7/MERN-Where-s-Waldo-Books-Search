@@ -1,4 +1,4 @@
-# Where's Waldo Book Search Engine 
+# Where's Waldo Book Search Engine 📖 📖 
 
 # Table of Contents
 
@@ -60,23 +60,22 @@ To create your package.json file this app npm init has to be called. You must cr
 ## Mock-Up
 ![21-mern-homework-demo-01](https://user-images.githubusercontent.com/89751266/160034953-bbcb30a0-fcb6-4e5c-9d62-8906a6dca200.gif)
 -Type `npm start` in the terminal to begin
-## Tools Used
-
+## Tools Used 💻
 
 * JavaScript
-* Node.js
-* Express
-* React
+* [Node.js](https://nodejs.org/en/)
+* [Express.js](https://expressjs.com/)
+* [React.js](https://reactjs.org/)
 * Apollo Server
 * Graphql
-* Mongodb
+* [MongoDB](https://www.mongodb.com/)
 * Mongoose
 * Dotenv
 * Heroku
 ## Screenshot
 ## Heroku
 
-## License
+## License 📝
 ![badge size](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![badge size](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue)
