@@ -71,7 +71,7 @@ To create your package.json file this app npm init has to be called. You must cr
 * [MongoDB](https://www.mongodb.com/)
 * [Mongoose](https://www.npmjs.com/package/mongoose)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
-* Heroku
+* **Heroku**
 ## Screenshot
 ## Heroku
 
@@ -81,6 +81,6 @@ To create your package.json file this app npm init has to be called. You must cr
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Contact
- - [RogueStorm]("")
+ - [RogueStorm]("https://github.com/RogueStorm7/MERN-Where-s-Waldo-Books-Search.git")
 
 © 2022 Mianta McKnight | All rights reserved |
