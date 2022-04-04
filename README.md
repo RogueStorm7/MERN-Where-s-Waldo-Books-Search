@@ -62,15 +62,15 @@ To create your package.json file this app npm init has to be called. You must cr
 -Type `npm start` in the terminal to begin
 ## Tools Used 💻
 
-* JavaScript
+* [JavaScript](https://nodejs.org/en/download/)
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
 * [React.js](https://reactjs.org/)
-* Apollo Server
-* Graphql
+* [Apollo Server](https://www.apollographql.com/docs/apollo-server/getting-started/)
+* [Graphql](https://www.npmjs.com/package/graphql)
 * [MongoDB](https://www.mongodb.com/)
-* Mongoose
-* Dotenv
+* [Mongoose](https://www.npmjs.com/package/mongoose)
+* [Dotenv](https://www.npmjs.com/package/dotenv)
 * Heroku
 ## Screenshot
 ## Heroku
